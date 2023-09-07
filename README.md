@@ -1,2 +1,2 @@
 # ReactProject
- React
+ ReactJs
